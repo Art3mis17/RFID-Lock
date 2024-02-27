@@ -1,4 +1,4 @@
-# RFID Access Control System with Arduino
+# RFID Lock using Arduino
 
 This project demonstrates an RFID access control system using Arduino. It allows access to a door or any other mechanism based on the authentication of RFID tags/cards. Authorized users can gain access by presenting their RFID tags, while unauthorized attempts trigger an alert.
 
